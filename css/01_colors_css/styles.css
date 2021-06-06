@@ -1,0 +1,13 @@
+main{
+    color: red;
+
+}
+a{
+    color: slategrey;  
+    text-decoration-color: cornflowerblue;
+    background-color: cyan;
+    border: 1px solid currentColor;
+    border-radius: 2px;
+    padding: 6px 2px;
+
+}
